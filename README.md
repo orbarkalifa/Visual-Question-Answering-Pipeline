@@ -85,7 +85,7 @@ To evaluate the model's performance:
 ├── app.py                      # Main Streamlit application
 ├── helper.py                   # Core logic for interacting with the VQA model
 ├── generate_evaluation_text.py # Script for generating the evaluation text
-├── process_all.py              # (Assumed utility script)
+├── process_all.py              # Utility script
 ├── requirements.txt            # Python dependencies
 ├── pics_and_questions/         # Example images and questions
 │   ├── drawing_...
